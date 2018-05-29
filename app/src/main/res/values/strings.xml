@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Dateing</string>
+    <string name="main">主页</string>
+    <string name="my">我的</string>
+    <string name="down">消息</string>
 </resources>

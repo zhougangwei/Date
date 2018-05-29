@@ -3,4 +3,108 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="transparent">#00000000</color>
+    <color name="share">#cc000000</color>
+
+    <color name="white">#fff</color>
+    <color name="half_transparent_line">#99efefef</color>
+    <color name="line">#efefef</color>
+    <color name="line_me">#f3f3f3</color>
+    <color name="line_dialog">#dcdcdc</color>
+    <color name="black">#000</color>
+
+    <!-- login -->
+    <color name="login_tv_login_color">#fbdc4b</color>
+
+    <!-- loginPhone-->
+    <color name="loginphone_line_color">#eeeeee</color>
+    <color name="loginphone_et_user_color">#aaaaaa</color>
+    <color name="loginphone_tv_user_color">#fdaebd</color>
+    <color name="loginphone_tv_login_color">#ffeef1</color>
+    <color name="loginphone_tv_login_agreement_color">#626262</color>
+    <color name="loginphone_tv_agreement_color">#16c0e5</color>
+
+    <!-- register code -->
+    <color name="register_code_line_color">#bfbfbf</color>
+    <color name="register_code_forget_color">#fbdc4b</color>
+
+    <color name="text_record_speed_selected">#626262</color>
+    <color name="bg_record_speed_unselect">#b31b1b1b</color>
+    <color name="record_page_selected">#fe4166</color>
+    <color name="bg_local_video">#f3f3f3</color>
+
+    <!-- record_music -->
+    <color name="record_music_et_search_color">#4dD2D2D2</color>
+    <color name="text_edit">#434343</color>
+    <color name="press_add">#ff2c55</color>
+    <color name="record_music_line_color">#ff2c55</color>
+    <color name="record_music_type_titme_color">#FF2C55</color>
+
+    <!-- my fragment-->
+    <color name="my_content_color">#fe4166</color>
+    <color name="my_id_color">#535353</color>
+
+    <!--find fragment-->
+    <color name="find_title_color">#3d5485</color>
+    <color name="find__tv_count_color">#d2d2d2</color>
+
+    <!-- modify user -->
+    <color name="modify_user_tv_name_color">#1b1b1b</color>
+    <color name="dialog_modify_tv_sex_color">#0077ff</color>
+
+    <!-- black list -->
+    <color name="black_list_tv_item_name_color">#0077ff</color>
+
+    <!-- video detail -->
+    <color name="video_detail_tv_name_color">#3d5485</color>
+
+    <color name="gray_aaa">#aaaaaa</color>
+    <color name="black_444444">#444444</color>
+    <color name="text_color_green_013ADF">#013ADF</color>
+
+    <color name="video_detail_tv_cancel_color">#333333</color>
+
+    <!-- challenge detail-->
+    <color name="challenge_detail_tv_name_color">#fff100</color>
+    <color name="challenge_detail_tv_line_color">#6b6a6b</color>
+    <color name="challenge_detail_tv_title_color">#fadc15</color>
+    <color name="challenge_detail_tv_content_color">#a0a0a0</color>
+
+    <color name="challenge_et_search_color">#4D959595</color>
+
+    <!--message-->
+    <color name="message_status_color">#fc3a7a</color>
+
+    <!-- upgrade -->
+    <color name="upgrade_release_challenge_color">#66ffffff</color>
+    <color name="upgrade_release_local_color">#65666e</color>
+    <color name="upgrade_release_local_bg_color">#D2D2D2</color>
+    <color name="upgrade_release_et_bg_color">#ccb5b5b5</color>
+    <color name="upgrade_release_et_color">#80ffffff</color>
+    <color name="upgrade_release_tv_challenge_content_color">#80000000</color>
+    <color name="upgrade_hotspot_tv_challenge_content_color">#ffd00b</color>
+    <color name="video_comment_other_color">#b33d5485</color>
+    <color name="video_comment_other_content_color">#7d7d7d</color>
+    <color name="upgrade_home_tv_follow_color">#ccffffff</color>
+    <color name="msg_et">#ffffffff</color>
+    <color name="challenge_content_color">#898989</color>
+
+    <color name="upgrade_msg_challenge_color">#fed421</color>
+    <color name="upgrade_msg_challenge_color_1">#707070</color>
+
+
+    <!-- vocieprofgress -->
+    <color name="voice_profgress">#ff2c55</color>
+    <color name="voice_bg">#4dd2d2d2</color>
+    <color name="item_falsh_color">#E9E9E9</color>
+    
+    <color name="search_user_color">#474849</color>
+
+
+    <color name="db_seek_bar">#fe4166</color>
+    <color name="db_seek_bar_bg">#e1e1e1</color>
+    <color name="loadingh_view">#4dd2d2d2</color>
+
+    <color name="tv_version_update_color">#626262</color>
+
 </resources>
